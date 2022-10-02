@@ -1,5 +1,3 @@
-// Eunjin Kwon, CS201, 01242020, exercise 1
-
 package labs.lab1;
 
 import java.util.Scanner;
