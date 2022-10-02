@@ -1,7 +1,5 @@
 # Lab 0 - Using Eclipse, BitBucket, and Java
 
-## 01/22/2020
-
 ## Objectives
 
 1. Learn the email addresses of your Lab Assistant (LA).
