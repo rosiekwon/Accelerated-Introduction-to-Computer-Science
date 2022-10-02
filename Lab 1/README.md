@@ -1,7 +1,5 @@
 # Lab 1 - Arithmetic Operations
 
-## 01/27/2020
-
 ## Objectives
 
 1. Learn to prompt for input
