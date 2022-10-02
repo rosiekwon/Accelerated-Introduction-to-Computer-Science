@@ -1,2 +1,9 @@
-# Accelerated-Introduction-to-Computer-Science
-Problem-solving and design using an object-oriented programming language. Introduces a variety of problem-solving techniques, algorithms, and data structures in object-oriented programming.
+# CS 201 #
+
+This repository will contain all assignments, exams, and projects that you will be working on throughout the semester. There may not be much in it at the start, but more will be added as time goes on, including additional work as well as grades for completed work.
+
+### Questions? ###
+
+For questions about your grades, please contact your TA, abolejack@hawk.iit.edu.
+
+If you have any issues using your repository, please email me at dboliske@hawk.iit.edu or talk to me after class.
