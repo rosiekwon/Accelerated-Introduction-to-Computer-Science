@@ -1,5 +1,3 @@
-// Eunjin, CS201, 01172020, HelloWorld
-
 package labs.lab0;
 
 public class HelloWorld {
