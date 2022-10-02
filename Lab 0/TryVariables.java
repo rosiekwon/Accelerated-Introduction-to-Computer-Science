@@ -1,5 +1,3 @@
-// Eunjin, CS201, 01172020, Tryvariables
-
 package labs.lab0;
 
 public class TryVariables {
