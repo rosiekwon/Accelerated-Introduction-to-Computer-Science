@@ -1,6 +1,5 @@
 # Lab 2 - Iteration #
 
-## 02/10/2020 ##
 
 ## Objectives ##
 
