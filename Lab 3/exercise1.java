@@ -1,5 +1,3 @@
-// Eunjin Kwon, CS201, 02142020, exercise 1
-
 package labs.lab3;
 
 import java.io.File;
