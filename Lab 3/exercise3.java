@@ -1,5 +1,3 @@
-// Eunjin Kwon, CS201, 02142020, exercise 3
-
 package labs.lab3;
 
 import java.io.IOException;
