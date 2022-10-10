@@ -1,7 +1,5 @@
 # Lab 3 - Arrays and String Parsing #
 
-## 02/17/2020 ##
-
 ## Objectives ##
 
 1. Learn to use arrays to store data
