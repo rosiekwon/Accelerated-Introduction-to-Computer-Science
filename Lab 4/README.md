@@ -1,7 +1,5 @@
 # Lab 4 - Writing Classes #
 
-## 02/24/2020 ##
-
 ## Objectives ##
 
 1. Learn how to write Java methods in a class
